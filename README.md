@@ -1,3 +1,3 @@
 # Mi primer proyecto
 
-## Esto es un subtitulo
+ESta es una breve descripción de lo que es mi primer proyecto con Git.
